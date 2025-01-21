@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm **[`Muhammed Falah`](www.linkedin.com/in/falahmuhammed)**,Certified Ethical Hacker | Bug Hunter | Security Researcher
+I'm **[`Muhammed Falah`](www.linkedin.com/in/muhammad-falah-k-691283226)**,Certified Ethical Hacker | Bug Hunter | Security Researcher
 I am a Certified Ethical Hacker and Security Researcher with extensive expertise in vulnerability assessment and ethical hacking practices. My focus is on developing educational content that addresses key topics in cybersecurity, bug bounty programs, and effective hacking strategies. Through my efforts, I strive to enhance awareness and understanding of cybersecurity challenges, ultimately contributing to a safer digital landscape for all.
 
-<a href="www.linkedin.com/in/falahmuhammed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/muhammad-falah-k-691283226"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
